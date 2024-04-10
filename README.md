@@ -1,7 +1,14 @@
 # SkightWare
 ## A Keylogger and Reverse Shell Made For Windows.
 
-To use this tool you need to do the following:
+### Features:
+- Has a PowerShell reverse shell.
+- Able to log keys pressed (Obviously).
+- Detects Uppercase and Lowercase based on: Caps-Lock, Shift, R-Shift.
+- Logs current window being viewed.
+- Exits when the user pressed ESC (You can remove it yourself but I'm not responsible of how you use it.
+
+### To use this tool you need to do the following:
 1. Install requirments:
 ```bash
 pip install requirements
