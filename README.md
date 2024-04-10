@@ -1,6 +1,8 @@
 # SkightWare
 ## A Keylogger and Reverse Shell Made For Windows.
 
+---
+
 ### Features:
 - Has a PowerShell reverse shell.
 - Able to log keys pressed (Obviously).
@@ -25,6 +27,11 @@ pyinstaller --onefile --noconsole my_script.py
 ```
 
 You'll find the exe in the "dist" folder.
+
+---
+
+##   Sponsor this project
+<a href='https://ko-fi.com/skight' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 # DISCLAIMER
 ### This tool is intended for educational purposes only. Please be aware that using it for any illegal activity is strictly prohibited and at your own risk. I take no responsibility for any misuse of this project.
