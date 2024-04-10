@@ -6,7 +6,8 @@
 - Able to log keys pressed (Obviously).
 - Detects Uppercase and Lowercase based on: Caps-Lock, Shift, R-Shift.
 - Logs current window being viewed.
-- Exits when the user pressed ESC (You can remove it yourself but I'm not responsible of how you use it.
+- Saves everything in a log.txt (You can grab it yourself from the revrese shell).
+- Exits when the user pressed ESC (You can remove it yourself but I'm not responsible of how you use it).
 
 ### To use this tool you need to do the following:
 1. Install requirments:
