@@ -1,6 +1,7 @@
 ### This tool is intended for educational purposes only. 
 ### Please be aware that using it for any illegal activity is strictly prohibited and at your own risk. 
 ### I take no responsibility for any misuse of this project.
+### SkightWare © 2024 by Omar Badawy is licensed under CC BY-NC 4.0 
 
 # ============= Imports =============
 import logging
